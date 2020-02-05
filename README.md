@@ -1,4 +1,4 @@
-# react-docker-config
+# react-docker-dynamic-config
 
 **Prerequisites**
 
